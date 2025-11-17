@@ -449,7 +449,7 @@
             <Top>4.17724cm</Top>
             <Left>1.3462cm</Left>
             <Height>3.94167cm</Height>
-            <Width>6.36229cm</Width>
+            <Width>7.02438cm</Width>
             <ZIndex>1</ZIndex>
             <Style>
               <Border>
@@ -700,9 +700,9 @@
             </TopImage>
             <DataSetName>DataSet2</DataSetName>
             <Top>5.01216cm</Top>
-            <Left>13.48994cm</Left>
-            <Height>2cm</Height>
-            <Width>6.73271cm</Width>
+            <Left>12.77557cm</Left>
+            <Height>2.23812cm</Height>
+            <Width>7.44708cm</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
@@ -1014,9 +1014,9 @@
               <Value />
             </TopImage>
             <DataSetName>DataSet3</DataSetName>
-            <Top>3.85974cm</Top>
+            <Top>3.75391cm</Top>
             <Left>24.5237cm</Left>
-            <Height>6.6cm</Height>
+            <Height>4.81479cm</Height>
             <Width>3.5cm</Width>
             <ZIndex>3</ZIndex>
             <Style>
@@ -1084,9 +1084,9 @@
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>2.32434cm</Top>
-            <Left>13.14599cm</Left>
+            <Left>12.77557cm</Left>
             <Height>1.15175cm</Height>
-            <Width>5.86021cm</Width>
+            <Width>7.44708cm</Width>
             <ZIndex>5</ZIndex>
             <Style>
               <Border>
@@ -1120,7 +1120,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>1.77259cm</Top>
+            <Top>2.32434cm</Top>
             <Left>23.44885cm</Left>
             <Height>1.15175cm</Height>
             <Width>5.86021cm</Width>
@@ -1484,10 +1484,10 @@
               </Style>
             </ChartNoDataMessage>
             <DataSetName>DataSet1</DataSetName>
-            <Top>11.69141cm</Top>
-            <Left>10.34203cm</Left>
-            <Height>5cm</Height>
-            <Width>7.5cm</Width>
+            <Top>12.03537cm</Top>
+            <Left>11.02995cm</Left>
+            <Height>6.05833cm</Height>
+            <Width>8.29375cm</Width>
             <ZIndex>7</ZIndex>
             <Style>
               <Border>
@@ -1846,10 +1846,10 @@
               </Style>
             </ChartNoDataMessage>
             <DataSetName>DataSet5</DataSetName>
-            <Top>11.69141cm</Top>
-            <Left>19.17912cm</Left>
-            <Height>5cm</Height>
-            <Width>7.5cm</Width>
+            <Top>12.03537cm</Top>
+            <Left>20.5237cm</Left>
+            <Height>5.97896cm</Height>
+            <Width>8.78536cm</Width>
             <ZIndex>8</ZIndex>
             <Style>
               <Border>
@@ -2209,10 +2209,10 @@
               </Style>
             </ChartNoDataMessage>
             <DataSetName>DataSet4</DataSetName>
-            <Top>11.69141cm</Top>
-            <Left>1.3462cm</Left>
+            <Top>12.03537cm</Top>
+            <Left>0.87058cm</Left>
             <Height>7.51354cm</Height>
-            <Width>7.5cm</Width>
+            <Width>7.97562cm</Width>
             <ZIndex>9</ZIndex>
             <Style>
               <Border>
@@ -2223,8 +2223,110 @@
               <BackgroundGradientType>None</BackgroundGradientType>
             </Style>
           </Chart>
+          <Textbox Name="Textbox5">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>EVOLUCION RECLAMOS POR DEPARTAMENTOS</Value>
+                    <Style>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>Underline</TextDecoration>
+                      <Color>Red</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox5</rd:DefaultName>
+            <Top>10.71245cm</Top>
+            <Left>0.87058cm</Left>
+            <Height>0.6cm</Height>
+            <Width>8.39958cm</Width>
+            <ZIndex>10</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox6">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>TENDENCIAS PAGOS MOROSOS POR MES</Value>
+                    <Style>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>Underline</TextDecoration>
+                      <Color>Red</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox6</rd:DefaultName>
+            <Top>10.71245cm</Top>
+            <Left>11.02995cm</Left>
+            <Height>0.6cm</Height>
+            <Width>7.57937cm</Width>
+            <ZIndex>11</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox7">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>PERDIDAS DE ENERGIA POR ALIMENTADOR</Value>
+                    <Style>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>Underline</TextDecoration>
+                      <Color>Red</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox7</rd:DefaultName>
+            <Top>10.71245cm</Top>
+            <Left>20.5237cm</Left>
+            <Height>0.6cm</Height>
+            <Width>8.21979cm</Width>
+            <ZIndex>12</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
         </ReportItems>
-        <Height>7.76934in</Height>
+        <Height>8.01934in</Height>
         <Style />
       </Body>
       <Width>11.875in</Width>
